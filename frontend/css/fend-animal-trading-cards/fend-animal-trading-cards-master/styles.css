@@ -1,0 +1,28 @@
+/* add your CSS here */
+.my_img {
+width: 300px;
+}
+
+#title {
+font-size: 2em;
+font-family: Helvetica, Arial,  sans-serif;
+}
+
+.list_label {
+font-weight: bold;
+}
+
+.description {
+    border: 1px solid;
+    border-color: #D8D8D8;
+    width: 300px;
+    padding: 10px;
+}
+
+.content {
+border: 1px solid;
+border-color: #D8D8D8;
+width: 322px;
+padding: 10px;
+box-shadow: 10px 10px #E8E8E8;
+}
