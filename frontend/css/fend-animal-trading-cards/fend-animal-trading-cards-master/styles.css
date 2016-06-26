@@ -1,28 +1,33 @@
 /* add your CSS here */
-.my_img {
-width: 300px;
+.my-img {
+    width: 300px;
 }
 
-#title {
-font-size: 2em;
-font-family: Helvetica, Arial,  sans-serif;
+.title {
+    font-size: 2em;
+    font-family: Helvetica, Arial,  sans-serif;
 }
 
-.list_label {
-font-weight: bold;
+.list-label {
+    font-weight: bold;
 }
 
 .description {
     border: 1px solid;
-    border-color: #D8D8D8;
+    border-color: #d8d8d8;
     width: 300px;
     padding: 10px;
 }
 
 .content {
-border: 1px solid;
-border-color: #D8D8D8;
-width: 322px;
-padding: 10px;
-box-shadow: 10px 10px #E8E8E8;
+    border: 1px solid;
+    border-color: #d8d8d8;
+    width: 322px;
+    padding: 10px;
+    box-shadow: 10px 10px #e8e8e8;
+}
+
+.props {
+    list-style-type: none;
+    padding: 0px;
 }
