@@ -1,8 +1,12 @@
 You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
   * What new skills have you learned?
+  applying HTML and CSS
   * What has been easy?
+  understanding the logic of the structure of css and html.
   * What has been difficult?
+  Some attention in getting the details right. 
   * How have you used the problem solving strategies from the first project to overcome challenges so far?
+  Start from the macro and move to the micro changes. 
 
 ---
 
